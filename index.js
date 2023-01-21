@@ -1232,7 +1232,7 @@ function clickNS4(e){if (document.layers||document.getElementById&&!document.all
 	<script type="text/javascript">
 	        if (navigator.userAgent.match(/iPad|iPhone|iPod/i)) document.getElementById("info_label").innerHTML = ((navigator.userAgent).match(/OS (\d)?\d_\d(_\d)?/i)[0].replace(/_/g, ".").replace("OS", "iOS") + " - SeeYouIOS");
         else {
-            document.getElementById("info_label").innerHTML = "SeeYouIOS";
+            document.getElementById("info_label").innerHTML = "KurdIOS";
             $$('#info_label').css('margin-bottom', '-36px');
         }
                       </script>
