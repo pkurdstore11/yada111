@@ -117,7 +117,7 @@
                             <img style="margin-top: 2.5%; border-radius: 20%;" width="200" class="elevation-12 animated zoomIn" src="https://is.gd/J8owPS">
                         </center>
                       <br>
-                        <h1 class="header">SeeYouIOS Free</h1>
+                        <h1 class="header">KurdIOS Free</h1>
             
                         <div class="elevation-12 list inset media-list">
   
