@@ -11,14 +11,14 @@
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 	<meta http-equiv="Content-Security-Policy" content="default-src * 'self' 'unsafe-inline' 'unsafe-eval' data: gap:">
-	<title>Kak Yada</title>
-  <meta name="description" content="Apps , Game Hack , Paid Apps Free , *All in the Kak Yada*">
+	<title>Kurd IOS</title>
+  <meta name="description" content="Apps , Game Hack , Paid Apps Free , *All in the Kurd IOS*">
   <meta name="language" content="English">
-  <link rel="icon" type="image/png" href="https://is.gd/rIx7VL">
-	<link rel="apple-touch-icon" href="https://is.gd/rIx7VL">
-	<link rel="icon" href="https://is.gd/rIx7VL">
-	<link rel="shortcut icon" href="https://is.gd/rIx7VL">
-	<link rel="apple-touch-startup-image" href="https://is.gd/rIx7VL">
+  <link rel="icon" type="image/png" href="https://is.gd/FIdZY4">
+	<link rel="apple-touch-icon" href="https://is.gd/FIdZY4">
+	<link rel="icon" href="https://is.gd/FIdZY4">
+	<link rel="shortcut icon" href="https://is.gd/FIdZY4">
+	<link rel="apple-touch-startup-image" href="https://is.gd/FIdZY4">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
     <link rel="stylesheet" href="x/framework7/css/framework7.bundle.min.css">
     <link rel="stylesheet" href="x/css/icons.css">
